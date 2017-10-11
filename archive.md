@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+bg: "luke-chesser-49.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+crawlertitle: "감감묨소식"
+summary: "Posts"
 active: archive
 ---
 
