@@ -8,15 +8,14 @@ summary: "About this blog"
 active: about
 ---
 
-![profile]({{ about.url }}../assets/images/profile.png)
+![profile]({{ about.url }}../assets/images/profile.png){:height="150px" width="150px"}.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+김명아 KIM MYUNGAH
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
++82 10-9535-8580 / kma1224@naver.com
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+ 포트폴리오를 만들고 있어요. 
 
+ 궁금한 것들을 빨리 찾아보기 위해 블로그를 만들었어요.
+
+열심히 공부하고 정리할 거에요.
