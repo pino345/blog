@@ -8,10 +8,12 @@ summary: "About this blog"
 active: about
 ---
 
-![profile]({{ about.url }}../assets/images/profile.png){:height="150px" width="150px"}.
+![profile]({{ about.url }}../assets/images/profile-drawing.png){:height="150px" width="150px"}.
 
 김명아 KIM MYUNGAH
 
-+82 10-9535-8580 / pino345@me.com
+pino345@me.com
 
+Make Happier  •'-'•)و✧
 
+Study design, front-end development
